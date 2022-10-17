@@ -1,0 +1,15 @@
+D:\VisualStudio\hotel\hotel\bin\Debug\net6.0\hotel.exe
+D:\VisualStudio\hotel\hotel\bin\Debug\net6.0\hotel.deps.json
+D:\VisualStudio\hotel\hotel\bin\Debug\net6.0\hotel.runtimeconfig.json
+D:\VisualStudio\hotel\hotel\bin\Debug\net6.0\hotel.dll
+D:\VisualStudio\hotel\hotel\bin\Debug\net6.0\hotel.pdb
+D:\VisualStudio\hotel\hotel\obj\Debug\net6.0\hotel.csproj.AssemblyReference.cache
+D:\VisualStudio\hotel\hotel\obj\Debug\net6.0\hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\hotel\hotel\obj\Debug\net6.0\hotel.AssemblyInfoInputs.cache
+D:\VisualStudio\hotel\hotel\obj\Debug\net6.0\hotel.AssemblyInfo.cs
+D:\VisualStudio\hotel\hotel\obj\Debug\net6.0\hotel.csproj.CoreCompileInputs.cache
+D:\VisualStudio\hotel\hotel\obj\Debug\net6.0\hotel.dll
+D:\VisualStudio\hotel\hotel\obj\Debug\net6.0\refint\hotel.dll
+D:\VisualStudio\hotel\hotel\obj\Debug\net6.0\hotel.pdb
+D:\VisualStudio\hotel\hotel\obj\Debug\net6.0\hotel.genruntimeconfig.cache
+D:\VisualStudio\hotel\hotel\obj\Debug\net6.0\ref\hotel.dll
